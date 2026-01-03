@@ -60,21 +60,21 @@ Any other ALSA-supported sound device
 Tip (analog output):
 
 sudo amixer cset numid=3 1
+************************************************************************************************************************************************************************************************************************************************************************
+**🚀 Quick Install / Run**
 
-🚀 Quick Install / Run
+*Recommended (download then run)*
 
-Recommended (download then run):
-
-curl -fsSL https://raw.githubusercontent.com/<USER>/<REPO>/main/setup_bt_receiver.sh -o setup_bt_receiver.sh
+curl -fsSL https://raw.githubusercontent.com/Snowbreez22/pi-bluetooth-receiver/main/setup_bt_receiver.sh -o setup_bt_receiver.sh
 chmod +x setup_bt_receiver.sh
 sudo ./setup_bt_receiver.sh
 
 
-One-liner:
+*One-liner: Also works*
 
-curl -fsSL https://raw.githubusercontent.com/<USER>/<REPO>/main/setup_bt_receiver.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/Snowbreez22/pi-bluetooth-receiver/main/setup_bt_receiver.sh | sudo bash
 
-
+************************************************************************************************************************************************************************************************************************************************************************
 After installation and reboot:
 
 Open Bluetooth on your phone/laptop

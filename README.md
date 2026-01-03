@@ -1,5 +1,4 @@
-# pi-bluetooth-receiver
-Rasberry Pi Bluetooth audio reciver 
+#Rasberry Pi Bluetooth audio reciver 
 
 Raspberry Pi Bluetooth Audio Receiver (BlueALSA) for Debian 13 (Trixie).
 Turns a Pi into an always-discoverable Bluetooth “speaker” with auto-pair, auto-trust, and automatic A2DP playback to an amplifier via ALSA (3.5mm or USB DAC).
